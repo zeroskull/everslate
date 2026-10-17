@@ -2,6 +2,13 @@
 
 # Everslate
 
+</div>
+
+## Terminal theme
+
+The colors a terminal actually renders: the 16 ANSI slots plus background,
+foreground, cursor and selection, packaged for import.
+
 ### Terminal ANSI 16
 
 **Normal**
@@ -63,6 +70,12 @@
 
 **terminalthemes.com schema** — [`everslate.yaml`](./everslate.yaml) follows the iTerm2-Color-Schemes YAML schema (background, foreground, cursor, ANSI 0–15, plus bold / selection / selected-text roles), usable with any tool that reads that format.
 
+
+## Editor & UI palette
+
+A broader role set built on the same base — background ladder, text roles
+and accents for editors, UIs and other tooling. These are Everslate roles,
+not ANSI slots, and are **not** part of the terminal theme pack above.
 
 ### Backgrounds & UI
 
