@@ -233,15 +233,9 @@
 </tr>
 <tr>
     <td><img src="./assets/error-red.svg" width="96" alt="error-red swatch"></td>
-    <td><code>Error red</code></td>
-    <td><code>#E67E80</code></td>
-    <td><code>rgb(230, 126, 128)</code></td>
-</tr>
-<tr>
-    <td><img src="./assets/meter-red.svg" width="96" alt="meter-red swatch"></td>
-    <td><code>Meter red</code></td>
-    <td><code>#C0686A</code></td>
-    <td><code>rgb(192, 104, 106)</code></td>
+    <td><code>Red (error & meter)</code></td>
+    <td><code>#CF7677</code></td>
+    <td><code>rgb(207, 118, 119)</code></td>
 </tr>
 </table>
 
