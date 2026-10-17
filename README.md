@@ -2,6 +2,8 @@
 
 # Everslate
 
+</div>
+
 ## Terminal ANSI 16
 
 **Normal**
@@ -17,12 +19,12 @@
     <th>6</th>
     <th>7</th>
 </tr>
-    <td align="center"><img src="./assets/ansi-0.svg" width="64" alt="ansi-0 swatch"><br><code>#666F64</code></td>
+    <td align="center"><img src="./assets/ansi-0.svg" width="64" alt="ansi-0 swatch"><br><code>#596257</code></td>
     <td align="center"><img src="./assets/ansi-1.svg" width="64" alt="ansi-1 swatch"><br><code>#4B9E74</code></td>
     <td align="center"><img src="./assets/ansi-2.svg" width="64" alt="ansi-2 swatch"><br><code>#819B69</code></td>
-    <td align="center"><img src="./assets/ansi-3.svg" width="64" alt="ansi-3 swatch"><br><code>#E5B567</code></td>
+    <td align="center"><img src="./assets/ansi-3.svg" width="64" alt="ansi-3 swatch"><br><code>#CD9E50</code></td>
     <td align="center"><img src="./assets/ansi-4.svg" width="64" alt="ansi-4 swatch"><br><code>#4196C7</code></td>
-    <td align="center"><img src="./assets/ansi-5.svg" width="64" alt="ansi-5 swatch"><br><code>#B4A2D8</code></td>
+    <td align="center"><img src="./assets/ansi-5.svg" width="64" alt="ansi-5 swatch"><br><code>#9583B8</code></td>
     <td align="center"><img src="./assets/ansi-6.svg" width="64" alt="ansi-6 swatch"><br><code>#66A5AD</code></td>
     <td align="center"><img src="./assets/ansi-7.svg" width="64" alt="ansi-7 swatch"><br><code>#EDE6D5</code></td>
 </table>
@@ -47,7 +49,7 @@
     <td align="center"><img src="./assets/ansi-12.svg" width="64" alt="ansi-12 swatch"><br><code>#7FBBB3</code></td>
     <td align="center"><img src="./assets/ansi-13.svg" width="64" alt="ansi-13 swatch"><br><code>#D699B6</code></td>
     <td align="center"><img src="./assets/ansi-14.svg" width="64" alt="ansi-14 swatch"><br><code>#83C092</code></td>
-    <td align="center"><img src="./assets/ansi-15.svg" width="64" alt="ansi-15 swatch"><br><code>#F2EFDF</code></td>
+    <td align="center"><img src="./assets/ansi-15.svg" width="64" alt="ansi-15 swatch"><br><code>#F8F5E5</code></td>
 </table>
 
 ### Terminal example
