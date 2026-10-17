@@ -2,11 +2,7 @@
 
 # Everslate
 
-</div>
-
-## Terminal theme
-
-### Terminal ANSI 16
+## Terminal ANSI 16
 
 **Normal**
 
