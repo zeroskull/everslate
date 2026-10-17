@@ -68,6 +68,17 @@
 **iTerm2** (and anything that imports `.itermcolors`): Settings → Profiles → Colors → Color Presets → Import… and pick [`everslate.itermcolors`](./everslate.itermcolors). Many other terminals and tools accept this format directly or through converters.
 
 
+**Note on ANSI red.** Everslate maps ANSI slot 1 (normal red) to green
+by design, so red appears only via bright/bold. Tools that ask for
+normal red directly — plain `git diff` — therefore show removals in
+green. Route git to the theme red (`#CF7677`, the bright
+slot) with:
+
+```
+git config --global color.diff.old brightred
+```
+
+
 ## Editor & UI palette
 
 ### Backgrounds & UI
