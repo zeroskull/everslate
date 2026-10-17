@@ -57,6 +57,13 @@
 </div>
 
 
+### Install
+
+**iTerm2** (and anything that imports `.itermcolors`): Settings → Profiles → Colors → Color Presets → Import… and pick [`everslate.itermcolors`](./everslate.itermcolors). Many other terminals and tools accept this format directly or through converters.
+
+**terminalthemes.com schema** — [`everslate.yaml`](./everslate.yaml) follows the iTerm2-Color-Schemes YAML schema (background, foreground, cursor, ANSI 0–15, plus bold / selection / selected-text roles), usable with any tool that reads that format.
+
+
 ### Backgrounds & UI
 
 <table align="center">
