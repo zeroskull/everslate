@@ -2,6 +2,61 @@
 
 # Everslate
 
+### Terminal ANSI 16
+
+**Normal**
+
+<table align="center">
+<tr>
+    <th>0</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+</tr>
+    <td align="center"><img src="./assets/ansi-0.svg" width="64" alt="ansi-0 swatch"><br><code>#666F64</code></td>
+    <td align="center"><img src="./assets/ansi-1.svg" width="64" alt="ansi-1 swatch"><br><code>#4B9E74</code></td>
+    <td align="center"><img src="./assets/ansi-2.svg" width="64" alt="ansi-2 swatch"><br><code>#819B69</code></td>
+    <td align="center"><img src="./assets/ansi-3.svg" width="64" alt="ansi-3 swatch"><br><code>#E5B567</code></td>
+    <td align="center"><img src="./assets/ansi-4.svg" width="64" alt="ansi-4 swatch"><br><code>#4196C7</code></td>
+    <td align="center"><img src="./assets/ansi-5.svg" width="64" alt="ansi-5 swatch"><br><code>#B4A2D8</code></td>
+    <td align="center"><img src="./assets/ansi-6.svg" width="64" alt="ansi-6 swatch"><br><code>#66A5AD</code></td>
+    <td align="center"><img src="./assets/ansi-7.svg" width="64" alt="ansi-7 swatch"><br><code>#EDE6D5</code></td>
+</table>
+
+**Bright**
+
+<table align="center">
+<tr>
+    <th>8</th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+</tr>
+    <td align="center"><img src="./assets/ansi-8.svg" width="64" alt="ansi-8 swatch"><br><code>#7A8478</code></td>
+    <td align="center"><img src="./assets/ansi-9.svg" width="64" alt="ansi-9 swatch"><br><code>#E67E80</code></td>
+    <td align="center"><img src="./assets/ansi-10.svg" width="64" alt="ansi-10 swatch"><br><code>#A7C080</code></td>
+    <td align="center"><img src="./assets/ansi-11.svg" width="64" alt="ansi-11 swatch"><br><code>#DBC07F</code></td>
+    <td align="center"><img src="./assets/ansi-12.svg" width="64" alt="ansi-12 swatch"><br><code>#7FBBB3</code></td>
+    <td align="center"><img src="./assets/ansi-13.svg" width="64" alt="ansi-13 swatch"><br><code>#D699B6</code></td>
+    <td align="center"><img src="./assets/ansi-14.svg" width="64" alt="ansi-14 swatch"><br><code>#83C092</code></td>
+    <td align="center"><img src="./assets/ansi-15.svg" width="64" alt="ansi-15 swatch"><br><code>#F2EFDF</code></td>
+</table>
+
+### Terminal example
+
+<div align="center">
+<img src="./assets/terminal-example.png" width="680" alt="Everslate terminal example">
+</div>
+
+
 ### Backgrounds & UI
 
 <table align="center">
@@ -180,18 +235,4 @@
     <td><code>rgb(192, 104, 106)</code></td>
 </tr>
 </table>
-
-
-### Terminal ANSI 16
-
-<div align="center">
-<img src="./assets/ansi-16.svg" width="680" alt="ANSI 16 slots">
-</div>
-
-
-### Terminal example
-
-<div align="center">
-<img src="./assets/terminal-example.png" width="680" alt="Everslate terminal example">
-</div>
 
