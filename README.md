@@ -43,7 +43,7 @@
     <th>15</th>
 </tr>
     <td align="center"><img src="./assets/ansi-8.svg" width="64" alt="ansi-8 swatch"><br><code>#7A8478</code></td>
-    <td align="center"><img src="./assets/ansi-9.svg" width="64" alt="ansi-9 swatch"><br><code>#E67E80</code></td>
+    <td align="center"><img src="./assets/ansi-9.svg" width="64" alt="ansi-9 swatch"><br><code>#CF7677</code></td>
     <td align="center"><img src="./assets/ansi-10.svg" width="64" alt="ansi-10 swatch"><br><code>#A7C080</code></td>
     <td align="center"><img src="./assets/ansi-11.svg" width="64" alt="ansi-11 swatch"><br><code>#DBC07F</code></td>
     <td align="center"><img src="./assets/ansi-12.svg" width="64" alt="ansi-12 swatch"><br><code>#7FBBB3</code></td>
