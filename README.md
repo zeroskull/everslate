@@ -228,8 +228,8 @@
 <tr>
     <td><img src="./assets/special.svg" width="96" alt="special swatch"></td>
     <td><code>Special (gold)</code></td>
-    <td><code>#BB8167</code></td>
-    <td><code>rgb(187, 129, 103)</code></td>
+    <td><code>#DBC07F</code></td>
+    <td><code>rgb(219, 192, 127)</code></td>
 </tr>
 <tr>
     <td><img src="./assets/error-red.svg" width="96" alt="error-red swatch"></td>
