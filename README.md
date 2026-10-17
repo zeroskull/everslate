@@ -22,7 +22,7 @@
     <td align="center"><img src="./assets/ansi-0.svg" width="64" alt="ansi-0 swatch"><br><code>#596257</code></td>
     <td align="center"><img src="./assets/ansi-1.svg" width="64" alt="ansi-1 swatch"><br><code>#4B9E74</code></td>
     <td align="center"><img src="./assets/ansi-2.svg" width="64" alt="ansi-2 swatch"><br><code>#819B69</code></td>
-    <td align="center"><img src="./assets/ansi-3.svg" width="64" alt="ansi-3 swatch"><br><code>#CD9E50</code></td>
+    <td align="center"><img src="./assets/ansi-3.svg" width="64" alt="ansi-3 swatch"><br><code>#BB8167</code></td>
     <td align="center"><img src="./assets/ansi-4.svg" width="64" alt="ansi-4 swatch"><br><code>#4196C7</code></td>
     <td align="center"><img src="./assets/ansi-5.svg" width="64" alt="ansi-5 swatch"><br><code>#9583B8</code></td>
     <td align="center"><img src="./assets/ansi-6.svg" width="64" alt="ansi-6 swatch"><br><code>#79A9B8</code></td>
@@ -222,14 +222,14 @@
 <tr>
     <td><img src="./assets/operator.svg" width="96" alt="operator swatch"></td>
     <td><code>Operator</code></td>
-    <td><code>#B77E64</code></td>
-    <td><code>rgb(183, 126, 100)</code></td>
+    <td><code>#BB8167</code></td>
+    <td><code>rgb(187, 129, 103)</code></td>
 </tr>
 <tr>
     <td><img src="./assets/special.svg" width="96" alt="special swatch"></td>
     <td><code>Special (gold)</code></td>
-    <td><code>#CD9E50</code></td>
-    <td><code>rgb(205, 158, 80)</code></td>
+    <td><code>#BB8167</code></td>
+    <td><code>rgb(187, 129, 103)</code></td>
 </tr>
 <tr>
     <td><img src="./assets/error-red.svg" width="96" alt="error-red swatch"></td>
