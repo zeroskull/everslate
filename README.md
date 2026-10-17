@@ -174,8 +174,8 @@
 <tr>
     <td><img src="./assets/term-bold.svg" width="96" alt="term-bold swatch"></td>
     <td><code>Terminal bold</code></td>
-    <td><code>#DBBC7F</code></td>
-    <td><code>rgb(219, 188, 127)</code></td>
+    <td><code>#DBC07F</code></td>
+    <td><code>rgb(219, 192, 127)</code></td>
 </tr>
 </table>
 
@@ -210,8 +210,8 @@
 <tr>
     <td><img src="./assets/function.svg" width="96" alt="function swatch"></td>
     <td><code>Function</code></td>
-    <td><code>#66A5AD</code></td>
-    <td><code>rgb(102, 165, 173)</code></td>
+    <td><code>#79A9B8</code></td>
+    <td><code>rgb(121, 169, 184)</code></td>
 </tr>
 <tr>
     <td><img src="./assets/number.svg" width="96" alt="number swatch"></td>
@@ -228,8 +228,8 @@
 <tr>
     <td><img src="./assets/special.svg" width="96" alt="special swatch"></td>
     <td><code>Special (gold)</code></td>
-    <td><code>#E5B567</code></td>
-    <td><code>rgb(229, 181, 103)</code></td>
+    <td><code>#CD9E50</code></td>
+    <td><code>rgb(205, 158, 80)</code></td>
 </tr>
 <tr>
     <td><img src="./assets/error-red.svg" width="96" alt="error-red swatch"></td>
