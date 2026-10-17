@@ -25,7 +25,7 @@
     <td align="center"><img src="./assets/ansi-3.svg" width="64" alt="ansi-3 swatch"><br><code>#CD9E50</code></td>
     <td align="center"><img src="./assets/ansi-4.svg" width="64" alt="ansi-4 swatch"><br><code>#4196C7</code></td>
     <td align="center"><img src="./assets/ansi-5.svg" width="64" alt="ansi-5 swatch"><br><code>#9583B8</code></td>
-    <td align="center"><img src="./assets/ansi-6.svg" width="64" alt="ansi-6 swatch"><br><code>#66A5AD</code></td>
+    <td align="center"><img src="./assets/ansi-6.svg" width="64" alt="ansi-6 swatch"><br><code>#79A9B8</code></td>
     <td align="center"><img src="./assets/ansi-7.svg" width="64" alt="ansi-7 swatch"><br><code>#EDE6D5</code></td>
 </table>
 
@@ -48,7 +48,7 @@
     <td align="center"><img src="./assets/ansi-11.svg" width="64" alt="ansi-11 swatch"><br><code>#DBC07F</code></td>
     <td align="center"><img src="./assets/ansi-12.svg" width="64" alt="ansi-12 swatch"><br><code>#7FBBB3</code></td>
     <td align="center"><img src="./assets/ansi-13.svg" width="64" alt="ansi-13 swatch"><br><code>#D699B6</code></td>
-    <td align="center"><img src="./assets/ansi-14.svg" width="64" alt="ansi-14 swatch"><br><code>#83C092</code></td>
+    <td align="center"><img src="./assets/ansi-14.svg" width="64" alt="ansi-14 swatch"><br><code>#8FC8DA</code></td>
     <td align="center"><img src="./assets/ansi-15.svg" width="64" alt="ansi-15 swatch"><br><code>#F8F5E5</code></td>
 </table>
 
@@ -78,8 +78,8 @@
 <tr>
     <td><img src="./assets/bg-base.svg" width="96" alt="bg-base swatch"></td>
     <td><code>Background</code></td>
-    <td><code>#1B1F22</code></td>
-    <td><code>rgb(27, 31, 34)</code></td>
+    <td><code>#1A1F21</code></td>
+    <td><code>rgb(26, 31, 33)</code></td>
 </tr>
 <tr>
     <td><img src="./assets/bg-deep.svg" width="96" alt="bg-deep swatch"></td>
@@ -90,20 +90,20 @@
 <tr>
     <td><img src="./assets/bg-panel.svg" width="96" alt="bg-panel swatch"></td>
     <td><code>Panel</code></td>
-    <td><code>#16191D</code></td>
-    <td><code>rgb(22, 25, 29)</code></td>
+    <td><code>#151A1C</code></td>
+    <td><code>rgb(21, 26, 28)</code></td>
 </tr>
 <tr>
     <td><img src="./assets/bg-elevated.svg" width="96" alt="bg-elevated swatch"></td>
     <td><code>Elevated background</code></td>
-    <td><code>#22292D</code></td>
-    <td><code>rgb(34, 41, 45)</code></td>
+    <td><code>#22292C</code></td>
+    <td><code>rgb(34, 41, 44)</code></td>
 </tr>
 <tr>
     <td><img src="./assets/bg-active.svg" width="96" alt="bg-active swatch"></td>
     <td><code>Active</code></td>
-    <td><code>#283035</code></td>
-    <td><code>rgb(40, 48, 53)</code></td>
+    <td><code>#273034</code></td>
+    <td><code>rgb(39, 48, 52)</code></td>
 </tr>
 <tr>
     <td><img src="./assets/bg-selection.svg" width="96" alt="bg-selection swatch"></td>
@@ -120,14 +120,20 @@
 <tr>
     <td><img src="./assets/border.svg" width="96" alt="border swatch"></td>
     <td><code>Border</code></td>
-    <td><code>#3A4741</code></td>
-    <td><code>rgb(58, 71, 65)</code></td>
+    <td><code>#384748</code></td>
+    <td><code>rgb(56, 71, 72)</code></td>
 </tr>
 <tr>
     <td><img src="./assets/border-strong.svg" width="96" alt="border-strong swatch"></td>
     <td><code>Border (strong)</code></td>
-    <td><code>#52615A</code></td>
-    <td><code>rgb(82, 97, 90)</code></td>
+    <td><code>#4F6163</code></td>
+    <td><code>rgb(79, 97, 99)</code></td>
+</tr>
+<tr>
+    <td><img src="./assets/bg-deep-slate.svg" width="96" alt="bg-deep-slate swatch"></td>
+    <td><code>Deep slate (fill)</code></td>
+    <td><code>#2A3B40</code></td>
+    <td><code>rgb(42, 59, 64)</code></td>
 </tr>
 </table>
 
