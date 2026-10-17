@@ -238,12 +238,6 @@
     <td><code>rgb(230, 126, 128)</code></td>
 </tr>
 <tr>
-    <td><img src="./assets/alert-red.svg" width="96" alt="alert-red swatch"></td>
-    <td><code>Alert red</code></td>
-    <td><code>#F85552</code></td>
-    <td><code>rgb(248, 85, 82)</code></td>
-</tr>
-<tr>
     <td><img src="./assets/meter-red.svg" width="96" alt="meter-red swatch"></td>
     <td><code>Meter red</code></td>
     <td><code>#C0686A</code></td>
