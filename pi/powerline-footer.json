@@ -1,0 +1,23 @@
+{
+  "colors": {
+    "model": "accent",
+    "shellMode": "accent",
+    "path": "success",
+    "gitDirty": "warning",
+    "gitClean": "success",
+    "thinking": "thinkingOff",
+    "thinkingMinimal": "thinkingMinimal",
+    "thinkingLow": "thinkingLow",
+    "thinkingMedium": "thinkingMedium",
+    "thinkingHigh": "thinkingHigh",
+    "thinkingXhigh": "thinkingXhigh",
+    "thinkingMax": "thinkingMax",
+    "context": "muted",
+    "contextWarn": "warning",
+    "contextError": "error",
+    "cost": "warning",
+    "tokens": "syntaxOperator",
+    "separator": "dim",
+    "border": "borderMuted"
+  }
+}

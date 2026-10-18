@@ -1,0 +1,30 @@
+{
+  "name": "everslate",
+  "displayName": "Everslate",
+  "description": "A dark color theme for VS Code.",
+  "publisher": "everslate",
+  "version": "1.11.1",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "everforest",
+    "natural",
+    "slate"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Everslate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/everslate-color-theme.json"
+      }
+    ]
+  }
+}

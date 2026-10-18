@@ -1,0 +1,23 @@
+{
+  "name": "Everslate",
+  "cursorColor": "#EDE6D5",
+  "selectionBackground": "#213D45",
+  "background": "#142024",
+  "foreground": "#EDE6D5",
+  "black": "#3F565E",
+  "red": "#CF7677",
+  "green": "#6E9E8B",
+  "yellow": "#B7875A",
+  "blue": "#4196C7",
+  "purple": "#9583B8",
+  "cyan": "#6997A7",
+  "white": "#EDE6D5",
+  "brightBlack": "#91A2A8",
+  "brightRed": "#FF918E",
+  "brightGreen": "#8BBE95",
+  "brightYellow": "#DBBC7F",
+  "brightBlue": "#7FBBB3",
+  "brightPurple": "#EAACC9",
+  "brightCyan": "#8BBACA",
+  "brightWhite": "#F8F5E5"
+}
